@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="130px" viewBox="0 0 118 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>server</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1112.000000, -1234.000000)" stroke="#82A7FF">
+            <g id="server" transform="translate(1112.000000, 1234.000000)">
+                <circle id="Oval-3" stroke-width="5" cx="92" cy="113" r="5"></circle>
+                <rect id="Rectangle-3" stroke-width="5" x="2.5" y="2.5" width="113" height="125" rx="8"></rect>
+                <path d="M21.5,19.5 L96.5,19.5" id="Line-3" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M21.5,29.5 L96.5,29.5" id="Line-3" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M21.5,39.5 L96.5,39.5" id="Line-3" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M21.5,49.5 L96.5,49.5" id="Line-3" stroke-width="4" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

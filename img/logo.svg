@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="309px" height="49px" viewBox="0 0 309 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-47.000000, -66.000000)">
+            <g id="logo" transform="translate(50.000000, 56.000000)">
+                <text id="tic.servicios" font-family="AvenirNext-Bold, Avenir Next" font-size="47" font-weight="bold" fill="#013A51">
+                    <tspan x="55" y="47">tic.</tspan>
+                    <tspan x="124.137" y="47" font-family="AvenirNext-Regular, Avenir Next" font-weight="normal">servicios</tspan>
+                </text>
+                <g id="Group" transform="translate(0.000000, 13.000000)" stroke="#62DD5D" stroke-width="5">
+                    <polygon id="Path-2" points="0 22.1863115 13.285905 0 41 0 27.1429525 22.1863115 41 43 13.285905 43"></polygon>
+                    <polyline id="Path-3" points="13 0 27 22.0574625 13 43"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
